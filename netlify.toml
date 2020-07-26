@@ -1,6 +1,6 @@
 [build]
   publish = "_site"
-  command = "eleventy"
+  command = "jekyll build"
 
 # REDIRECT and HEADERS examples
 

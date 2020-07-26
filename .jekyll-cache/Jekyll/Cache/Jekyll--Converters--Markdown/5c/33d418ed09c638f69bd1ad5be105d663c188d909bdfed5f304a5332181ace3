@@ -1,0 +1,6 @@
+I"Z<p>The contact form on this page uses
+<a href="https://www.netlify.com/docs/form-handling/">Netlify Forms</a> to process
+submissions, and saves them in the connected Netlify account where
+notifications can optionally be configured. Each submission is passed through a
+spam filter and if flagged, will display a CAPTCHA challenge to the user.</p>
+:ET
